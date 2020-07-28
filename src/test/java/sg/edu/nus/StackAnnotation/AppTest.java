@@ -15,7 +15,9 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        //assertTrue( true );
-        assertTrue( false );
+        //pass case
+        assertTrue( true );
+        //fail case
+        //assertTrue( false );
     }
 }
